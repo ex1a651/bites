@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Bites",
+    "slug": "bites",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#FFF7F2",
+    "splash": {
+      "backgroundColor": "#FFF7F2"
+    },
+    "android": {
+      "package": "com.ex1a651.bites",
+      "versionCode": 1,
+      "backgroundColor": "#FFF7F2",
+      "edgeToEdgeEnabled": true,
+      "softwareKeyboardLayoutMode": "pan"
+    },
+    "plugins": ["expo-sqlite"]
+  }
+}
